@@ -1,0 +1,214 @@
+The First Day.
+
+Hamlet, the standin for the reader.
+
+Lucio, A man who is quite clearly a 10.
+Viola, A woman who is about as good as you can ever hope to get //holds ascii 9.
+Timon, A man who is as bad as any around //holds ascii 0.
+Helen, A woman who makes others run in fear // holds ascii \n.
+Isabella, A woman who is kinda spacey //holds ascii " " (dec 32).
+
+
+Titus, A man who remembers all types of things //holds the input string for the current line.
+Regan, A servant who counts what Titus has remembered //counts the lenght of the line.
+
+
+Ford, a collector of nice things //holds the numbers from the line.
+Emilia, The secretairy of ford, counts the number of things he has collected.
+
+Duncan, collects the first number from Ford (the lest sig number).
+Hector, Collects the last number from Ford (the most signficangt number).
+Fenton, collects the numbers from Duncan and Hector.
+
+
+Ajax, The final judge //The final sum.
+
+		Act I: Collection of the thoughts of the people.
+		
+
+		Scene I: The stage is set.
+
+[Enter Hamlet and Lucio]
+Hamlet: Thou art the sum of an amazing honest noble lord and a fine summer's day.
+
+[Exit Lucio]
+
+[Enter Viola]
+Hamlet: Thou art the sum of an amazing fair loving happy pretty summer's day and a bold brave fine honest king.
+Hamlet: Thou art the sum of thyself and a rich smooth hero.
+Hamlet: Thou art the sum of thyself and a noble sunny rose. 
+Hamlet: Thou art the sum of thyself and a pony.
+
+[Exeunt Viola]
+
+[Enter Timon]
+
+Hamlet: Thou art the sum of a rich smooth sweet proud fine pony and a mighty fine brave noble king.
+
+[Exit Timon]
+
+[Enter Helen]
+
+Hamlet: Thou art the sum of a golden pony and a noble mighty peaceful king.
+
+[Exit Helen]
+
+[Enter Isabella]
+
+Hamlet: Thou art an amazing beautiful blossoming charming fair pony.
+
+[Exeunt]
+
+
+
+		Scene II: Gathering input from the audience //collecting a line.
+[Exeunt]
+[Enter Isabella and Titus]
+
+
+Isabella: Open your mind!
+
+Isabella: Am I as fair as you?
+Titus: If so, we must proceed to Scene III.
+
+Isabella: Remember yourself.
+
+[Exit Titus]
+[Enter Regan]
+
+Isabella: Thou art the sum of thyself and a pony.
+Isabella: We shall return to Scene II.
+[Exeunt]
+
+
+
+		Scene III: Is there something on Titus's mind.
+[Exeunt]
+[Enter Titus and Regan]
+
+Regan: Am I better than nothing?
+Titus: If so, let us proceed to Scene IV. 
+Titus: If not, we must proceed to Scene V.
+[Exeunt]
+
+		Scene IV: Titus will Recall something.
+[Exeunt]
+[Enter Regan and Titus]
+
+Regan: Recall the day that you first met your lover!
+Titus: You are the sum of yourself and a pig.
+
+[Exit Regan]
+
+[Enter Viola]
+Titus: Am I better than you?
+Viola: If so, We must return to Scene III.
+[Exit Viola]
+
+[Enter Timon]
+Titus: Am I worse than you?
+Timon: If so, We must return to Scene III.
+Timon: You are as stupid as the difference between yourself and myself.
+[Exit Timon]
+
+[Enter Ford]
+Titus: Thou art nothing.
+Titus: Thou art the sum of myself and yourself.
+Titus: Remember Thyself.
+[Exit Ford]
+
+[Enter Emilia]
+Titus: Thou art the sum of thyself and a pony.
+Titus: We must return to Scene III.
+[Exeunt]
+
+
+		Scene V: Tutus has recalled all he can, Ford has the numbers in his memory, getting setup for Ford to recall.
+[Exeunt]
+
+[Enter Ford and Duncan]
+Ford: You are nothing.
+[Exit Duncan]
+[Enter Hector]
+Ford: You are nothing.
+
+[Exeunt]
+
+
+		Scene VI: Ford Gives his number to Duncan.
+[Exeunt]
+[Enter Ford and Duncan]
+Duncan: Recall the day that thou hast made thy first kill.
+Ford: You are the sum of yourself and myself.
+[Exit Duncan]
+
+[Enter Emilia]
+Ford: Thou art the sum of thyself and a pig.
+[Exeunt]
+
+
+
+		Scene VII: Ford Gives numbers to Hector.
+[Exeunt]
+[Enter Ford and Emilia]
+
+Emilia: Am I better than nothing?
+Ford: If not, we must proceed to Scene VIII.
+
+Emilia: Recall when thou hast once had love for me.
+Ford: Thou art the sum of thyself and a pig.
+[Exit Emilia]
+[Enter Hector]
+
+Ford: Thou art nothing.
+Ford: Thou art the sum of myself and thyself.
+Ford: We must return to Scene VII!
+[Exeunt] 
+
+
+
+		Scene VIII: Check first to see if Hector is 0.
+[Enter Duncan and Hector]
+Hector: Am I better than nothing?
+Duncan: If so, we must proceed to Scene IX.
+
+[Exeunt]
+[Enter Hector and Duncan]
+Duncan: Thou art nothing.
+Duncan: Thou art the sum of thyself and myself.
+[Exeunt]
+
+		Scene IX: Duncan and Hector give their numbers to Fenton.
+[Exeunt]
+[Enter Duncan and Fenton]
+[a pause]
+Duncan: Thou art nothing.
+Duncan: Thou art the sum of thyself and myself.
+Duncan: Thou art the sum of thyself and myself.
+Duncan: Thou art the sum of thyself and myself.
+Duncan: Thou art the sum of thyself and myself.
+Duncan: Thou art the sum of thyself and myself.
+Duncan: Thou art the sum of thyself and myself.
+Duncan: Thou art the sum of thyself and myself.
+Duncan: Thou art the sum of thyself and myself.
+Duncan: Thou art the sum of thyself and myself.
+Duncan: Thou art the sum of thyself and myself.
+[Exit Duncan]
+
+[Enter Hector]
+Hector: You are the sum of yourself and myself.
+[Exeunt]
+
+	Scene X: Fenton tells his number to Ajax and Ajax Speaks.
+[Enter Fenton and Ajax]
+Fenton: Thou art the sum of myself and thyself.
+Ajax: Thou art nothing.
+[Exit Fenton]
+[Enter Helen]
+
+Helen: Open Your Heart!
+Ajax: Speak Your mind!
+Ajax: We must return to Scene II!
+[Exeunt]
+
+

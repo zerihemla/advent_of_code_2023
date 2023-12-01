@@ -1,0 +1,34 @@
+Possible Characters:
+
+    expecting one of: 'Achilles' 'Adonis' 'Adriana' 'Aegeon''Aemilia' 'Agamemnon' 'Agrippa' 'Ajax''Alonso' 'Andromache' 'Angelo''Antiochus' 'Antonio' 'Arthur''Autolycus' 'Balthazar' 'Banquo''Beatrice' 'Benedick' 'Benvolio''Bianca' 'Brabantio' 'Brutus' 'Capulet''Cassandra' 'Cassius' 'Christopher''Cicero' 'Claudio' 'Claudius''Cleopatra' 'Cordelia' 'Cornelius''Cressida' 'Cymberline' 'Demetrius''Desdemona' 'Dionyza' 'Doctor''Dogberry' 'Don' 'Donalbain' 'Dorcas''Duncan' 'Egeus' 'Emilia' 'Escalus''Falstaff' 'Fenton' 'Ferdinand' 'Ford''Fortinbras' 'Francisca' 'Friar''Gertrude' 'Goneril' 'Hamlet' 'Hecate''Hector' 'Helen' 'Helena' 'Hermia''Hermonie' 'Hippolyta' 'Horatio''Imogen' 'Isabella' 'John' 'Julia''Juliet' 'Julius' 'King' 'Lady' 'Lennox''Leonato' 'Luciana' 'Lucio' 'Lychorida''Lysander' 'Macbeth' 'Macduff' 'Malcolm''Mariana' 'Mark' 'Mercutio' 'Miranda''Mistress' 'Montague' 'Mopsa' 'Oberon''Octavia' 'Octavius' 'Olivia' 'Ophelia''Orlando' 'Orsino' 'Othello' 'Page''Pantino' 'Paris' 'Pericles' 'Pinch''Polonius' 'Pompeius' 'Portia' 'Priam''Prince' 'Prospero' 'Proteus' 'Publius''Puck' 'Queen' 'Regan' 'Robin' 'Romeo''Rosalind' 'Sebastian' 'Shallow''Shylock' 'Slender' 'Solinus' 'Stephano''Thaisa' 'The' 'Theseus' 'Thurio''Timon' 'Titania' 'Titus' 'Troilus''Tybalt' 'Ulysses' 'Valentine' 'Venus''Vincentio' 'Viola'
+
+
+Good Adjectives:
+    expecting one of: 'amazing' 'beautiful' 'blossoming''bold' 'brave' 'charming' 'clearest''cunning' 'cute' 'delicious''embroidered' 'fair' 'fine' 'gentle''golden' 'good' 'handsome' 'happy''healthy' 'honest' 'lovely' 'loving''mighty' 'noble' 'peaceful' 'pretty''prompt' 'proud' 'reddest' 'rich''smooth' 'sunny' 'sweet' 'sweetest''trustworthy' 'warm'
+
+Bad Adjectives:
+'bad' 'cowardly' 'cursed' 'damned''dirty' 'disgusting' 'distasteful''dusty' 'evil' 'fat-kidneyed''fatherless' 'fat' 'foul' 'hairy' 'half-witted' 'horrible' 'horrid' 'infected''lying' 'miserable' 'misused' 'oozing''rotten' 'smelly' 'snotty' 'sorry''stinking' 'stuffed' 'stupid' 'vile''villainous' 'worried'
+
+
+
+Good nouns:
+    summer's day, king, hero, rose, pony
+
+
+Bad nouns:
+    pig, horse,
+
+
+
+Inputs:
+
+    Open Your Heart - Outputs the variables value
+    Speak your mind - outputs the ascci character
+
+    Listen to your heart - inputs a number
+    Open your mind - input a character
+
+Stack Interface:
+    
+    Remember (yourself, me): push a variable onto a stack
+    Recall: pop a variable from the stack.
