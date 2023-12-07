@@ -1,4 +1,4 @@
-x
+
 def read_digits(cur_dig):
     print("starting_read")
     length = len(cur_dig)
